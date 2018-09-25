@@ -1,1 +1,19 @@
-Hola!!
+1 Inserta una nueva película.
+
+INSERT INTO film VALUE (default,'titulo','descripcion',release_year,default,NULL,rental_duration,rental_rate,length,replacement_cost,rating,special_features,now())
+
+2 Inserta dos nuevos actores.
+
+INSERT INTO actor VALUE(default,'Kiezmi','De Miguel',default),(default,'Ivan','Martinez',default)
+
+3 Modifica el apellido de la actriz UMA a THURMAN
+
+
+
+4 Elimina los dos actores que has creado.
+
+
+
+5 Comprueba que ocurre si intentamos realizar la siguiente sentencia
+
+
